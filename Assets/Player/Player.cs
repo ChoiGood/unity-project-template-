@@ -5,7 +5,7 @@ public class Player : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("Player Test222");
+        Debug.Log("Player Test333");
     }
 
     // Update is called once per frame
